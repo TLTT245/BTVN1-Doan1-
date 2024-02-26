@@ -1,0 +1,62 @@
+
+.leftcontent{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%; /* Điều chỉnh kích thước phù hợp */
+    background-color: rgba(169,169,169,0.9);
+    margin-left: 250px;
+}
+.rightcontent{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%; /* Điều chỉnh kích thước phù hợp */
+}
+.anhCV1{
+ align-items: center;
+}
+.l-in4{
+    border: 3px solid aqua;
+    width: 250px;
+    border-radius: 10%;
+}
+.skill{
+    border: 3px solid aqua;
+    width: 250px;
+    border-radius: 10%;
+}
+.target{
+    border: 3px solid aqua;
+    width: 250px;
+    border-radius: 10%;
+}
+.content2{
+    background-color: rgb(0, 204, 204);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    height: 40px;
+    border-radius: 10%;
+}
+.content1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+}
+.in4real{
+    padding:0px;
+}
+.in4real li{
+    padding-top: 10px;
+}
+.target-job{
+    padding:0px;
+}
+.target-job li{
+    padding-top: 20px;
+}
+.r-in4{
+    border-radius: 20%;
+}
